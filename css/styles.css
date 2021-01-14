@@ -63,11 +63,11 @@
   background-image: linear-gradient(to bottom, #709FB0, #709FB0);
   -webkit-border-radius: 21;
   -moz-border-radius: 21;
-  border-radius: 21px;
+  border-radius: 14px;
   font-family: Arial;
   color: #f4ebc1;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 7px 17px 7px 17px;
   text-decoration: none;
   margin-top: 10px;
 }
